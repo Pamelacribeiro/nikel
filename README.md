@@ -2,11 +2,11 @@
 Controle de despesas
 
 ![indeximg](./assets/images/indeximg.png)  
-<hr>  
-![home-l](assets/images/homeimg.png)  
-<hr>  
-![transactions-l](assets/images/transactionsimg.png)  
+ 
+![homeimg](./assets/images/homeimg.png)  
 
+![transactionsimg](./assets/images/transactionsimg.png)  
+ <hr>
 
 
 🚀 Tecnologias:
